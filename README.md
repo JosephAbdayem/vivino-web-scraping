@@ -1,27 +1,27 @@
-# Coleta de Dados do Site de Vinhos Vivino com o Intuito de Automatizar uma Planilha de Excel
+# 🍷 Vivino Wine Data Collection for Automated Excel Spreadsheet
 
-Este projeto tem o objetivo de automatizar a coleta de dados de vinhos do site de vinhos Vivino com o intuito de criar uma planilha de Excel. O projeto usará web scraping para coletar as informações necessárias e armazená-las em uma planilha de Excel.
+This project aims to automate the collection of wine data from Vivino to create a detailed Excel spreadsheet. Using web scraping, this project will gather essential wine information and store it in a structured Excel format for easy reference and analysis.
 
-## O que é Web Scraping?
+---
 
-Web scraping é o processo de extrair informações de páginas da web de forma automatizada. É um processo que leva a informação de uma página da web e a armazena em algum tipo de banco de dados, como uma planilha de Excel.
+## 🔎 What is Web Scraping?
 
-## O que é o Site de Vinhos Vivino?
+Web scraping is the process of automatically extracting information from web pages. It collects data from web pages and stores it in a database or a structured format, such as an Excel spreadsheet.
 
-Vivino é um site de vinhos que permite que os usuários pesquisem, avalie, compare e compre vinhos online. O site contém informações sobre milhares de vinhos diferentes, incluindo preços, avaliações, regiões etc.
+## 🍇 What is Vivino?
 
-## Objetivos do Projeto
+Vivino is a comprehensive wine website that enables users to search, rate, compare, and purchase wines online. The site contains information on thousands of wines, including prices, ratings, regions, and more.
 
-O objetivo deste projeto é criar uma planilha de Excel que contenha todas as informações sobre os vinhos disponíveis no site de vinhos Vivino. Os dados serão extraídos da página de cada vinho usando web scraping.
+## 🎯 Project Objectives
 
-## Metodologia
+The objective of this project is to create an Excel spreadsheet containing detailed information about wines available on Vivino. Each wine’s data will be extracted from its respective webpage using web scraping.
 
-Para cumprir o objetivo deste projeto, usarei web scraping para extrair os dados da página de cada vinho no site de vinhos Vivino. Em seguida, esses dados serão armazenados em uma planilha de Excel.
+## 🛠 Methodology
 
-## Resultados Esperados
+To achieve the project’s objective, I will use web scraping techniques to extract data from each wine page on Vivino. This data will then be stored in an organized Excel spreadsheet.
 
-Ao término deste projeto, espera-se que seja criada uma planilha de Excel que contenha todas as informações sobre os vinhos disponíveis no site de vinhos Vivino. Esta planilha de Excel conterá informações como nome do vinho, preço, avaliação, região e muito mais.
+Additionally, Visual Basic for Applications (VBA) will be employed to automate data collection from each wine page. VBA is a programming language commonly used with Microsoft Excel to write macros and automate tasks.
 
-adicione que usei vba para realizar a coleta dos dados
+## 📊 Expected Results
 
-Além disso, usarei Visual Basic for Applications (VBA) para automatizar a coleta de dados da página de cada vinho. VBA é uma linguagem de programação que é usada em conjunto com o Microsoft Excel para escrever macros e criar softwares automatizados.
+Upon completion, this project will produce an Excel spreadsheet with comprehensive information on wines available on Vivino. This Excel sheet will include wine name, price, rating, region, and other relevant details, offering a structured view for easy access and comparison.
